@@ -1,0 +1,23 @@
+.image-content {
+    text-align: center;
+}
+
+.fixture-container {
+    text-align: center;
+    padding: auto;
+}
+.middle-content {
+    text-align: center;
+}
+.features {
+    width: fit-content;
+    margin: 0 auto;
+}
+.centering-table {
+    width: fit-content;
+    margin: 0 auto;
+}
+.centering-table {
+    height: 100px;
+    width: 500px;
+}
